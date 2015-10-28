@@ -1,0 +1,9 @@
+http://www.cnblogs.com/mz121star/archive/2012/11/14/jasmine3.html
+http://blog.fens.me/nodejs-jasmine-bdd/
+http://blog.fens.me/nodejs-bower-intro/
+http://jasmine.github.io/2.3/introduction.html
+http://blog.jobbole.com/67560/
+http://www.tuicool.com/articles/VbyEBf
+http://lanyrd.com/2012/full-frontal/sztqh/
+
+http://blog.jobbole.com/8087/
